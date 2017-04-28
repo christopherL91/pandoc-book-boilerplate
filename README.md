@@ -1,4 +1,4 @@
-# acm-conference-paper-pandoc-boilerplate
+# pandoc-book-boilerplate
 
 # Build
 
